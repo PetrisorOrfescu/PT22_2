@@ -1,0 +1,83 @@
+Task(1,19,3) has been successfully created
+Task(2,18,2) has been successfully created
+Task(3,20,2) has been successfully created
+Task(4,24,2) has been successfully created
+Task(5,6,2) has been successfully created
+Task(6,10,3) has been successfully created
+Task(7,14,3) has been successfully created
+Current time: 0
+Current time: 1
+Current time: 2
+Current time: 3
+Current time: 4
+Current time: 5
+Current time: 6
+Task(5,6,2) has been successfully assigned to server no:1
+Current time: 7
+Current time: 8
+Current time: 9
+Current time: 10
+Task 5 has been successfully processed
+Task(6,10,3) has been successfully assigned to server no:1
+Current time: 11
+Current time: 12
+Current time: 13
+Task 6 has been successfully processed
+Current time: 14
+Task(7,14,3) has been successfully assigned to server no:1
+Current time: 15
+Current time: 16
+Current time: 17
+Current time: 18
+Task 7 has been successfully processed
+Task(2,18,2) has been successfully assigned to server no:1
+Current time: 19
+Task 2 has been successfully processed
+Task(1,19,3) has been successfully assigned to server no:1
+Current time: 20
+Task(3,20,2) has been successfully assigned to server no:2
+Current time: 21
+Current time: 22
+Task 1 has been successfully processed
+Current time: 23
+Task 3 has been successfully processed
+Current time: 24
+Task(4,24,2) has been successfully assigned to server no:1
+Current time: 25
+Current time: 26
+Current time: 27
+Task 4 has been successfully processed
+Current time: 28
+Current time: 29
+Current time: 30
+Current time: 31
+Current time: 32
+Current time: 33
+Current time: 34
+Current time: 35
+Current time: 36
+Current time: 37
+Current time: 38
+Current time: 39
+Current time: 40
+Current time: 41
+Current time: 42
+Current time: 43
+Current time: 44
+Current time: 45
+Current time: 46
+Current time: 47
+Current time: 48
+Current time: 49
+Current time: 50
+Current time: 51
+Current time: 52
+Current time: 53
+Current time: 54
+Current time: 55
+Current time: 56
+Current time: 57
+Current time: 58
+Current time: 59
+Current time: 60
+Average Waiting Time: 2.4285714285714284
