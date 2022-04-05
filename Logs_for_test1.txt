@@ -1,0 +1,70 @@
+Current time: 0
+Current time: 1
+Current time: 2
+Current time: 3
+Current time: 4
+Current time: 5
+Current time: 6
+Current time: 7
+Current time: 8
+Current time: 9
+Current time: 10
+Current time: 11
+Task(3,11,2) has been successfully assigned to server no:1
+Current time: 12
+Current time: 13
+Task 3 has been successfully processed
+Current time: 14
+Current time: 15
+Current time: 16
+Current time: 17
+Current time: 18
+Current time: 19
+Current time: 20
+Current time: 21
+Task(1,21,3) has been successfully assigned to server no:1
+Current time: 22
+Current time: 23
+Task(2,23,3) has been successfully assigned to server no:2
+Current time: 24
+Task 1 has been successfully processed
+Current time: 25
+Current time: 26
+Task 2 has been successfully processed
+Current time: 27
+Task(4,27,3) has been successfully assigned to server no:1
+Current time: 28
+Current time: 29
+Current time: 30
+Current time: 31
+Task 4 has been successfully processed
+Current time: 32
+Current time: 33
+Current time: 34
+Current time: 35
+Current time: 36
+Current time: 37
+Current time: 38
+Current time: 39
+Current time: 40
+Current time: 41
+Current time: 42
+Current time: 43
+Current time: 44
+Current time: 45
+Current time: 46
+Current time: 47
+Current time: 48
+Current time: 49
+Current time: 50
+Current time: 51
+Current time: 52
+Current time: 53
+Current time: 54
+Current time: 55
+Current time: 56
+Current time: 57
+Current time: 58
+Current time: 59
+Current time: 60
+Average Waiting Time: 2.75
