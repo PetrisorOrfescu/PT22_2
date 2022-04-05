@@ -1,0 +1,212 @@
+Task(1,32,3) has been successfully created
+Task(2,5,1) has been successfully created
+Task(3,3,2) has been successfully created
+Task(4,38,6) has been successfully created
+Task(5,30,4) has been successfully created
+Task(6,26,4) has been successfully created
+Task(7,10,5) has been successfully created
+Task(8,34,5) has been successfully created
+Task(9,9,1) has been successfully created
+Task(10,16,5) has been successfully created
+Task(11,28,1) has been successfully created
+Task(12,31,6) has been successfully created
+Task(13,37,3) has been successfully created
+Task(14,25,2) has been successfully created
+Task(15,32,2) has been successfully created
+Task(16,31,1) has been successfully created
+Task(17,26,5) has been successfully created
+Task(18,30,3) has been successfully created
+Task(19,33,3) has been successfully created
+Task(20,21,6) has been successfully created
+Task(21,17,5) has been successfully created
+Task(22,35,1) has been successfully created
+Task(23,35,5) has been successfully created
+Task(24,28,6) has been successfully created
+Task(25,33,1) has been successfully created
+Task(26,35,5) has been successfully created
+Task(27,21,6) has been successfully created
+Task(28,37,1) has been successfully created
+Task(29,38,5) has been successfully created
+Task(30,27,1) has been successfully created
+Task(31,11,3) has been successfully created
+Task(32,38,6) has been successfully created
+Task(33,5,4) has been successfully created
+Task(34,3,4) has been successfully created
+Task(35,9,4) has been successfully created
+Task(36,7,1) has been successfully created
+Task(37,19,3) has been successfully created
+Task(38,24,2) has been successfully created
+Task(39,19,1) has been successfully created
+Task(40,7,5) has been successfully created
+Task(41,13,3) has been successfully created
+Task(42,6,2) has been successfully created
+Task(43,11,3) has been successfully created
+Task(44,5,1) has been successfully created
+Task(45,5,4) has been successfully created
+Task(46,33,6) has been successfully created
+Task(47,22,1) has been successfully created
+Task(48,27,5) has been successfully created
+Task(49,22,2) has been successfully created
+Task(50,35,1) has been successfully created
+Current time: 0
+Current time: 1
+Current time: 2
+Current time: 3
+Task(3,3,2) has been successfully assigned to server no:1
+Task(34,3,4) has been successfully assigned to server no:2
+Current time: 4
+Current time: 5
+Task(2,5,1) has been successfully assigned to server no:3
+Task(33,5,4) has been successfully assigned to server no:4
+Task(44,5,1) has been successfully assigned to server no:5
+Task(45,5,4) has been successfully assigned to server no:1
+Current time: 6
+Task 3 has been successfully processed
+Task 2 has been successfully processed
+Task 44 has been successfully processed
+Task(42,6,2) has been successfully assigned to server no:3
+Current time: 7
+Task 34 has been successfully processed
+Task(36,7,1) has been successfully assigned to server no:2
+Task(40,7,5) has been successfully assigned to server no:5
+Current time: 8
+Task 42 has been successfully processed
+Task 36 has been successfully processed
+Current time: 9
+Task 33 has been successfully processed
+Task 45 has been successfully processed
+Task(9,9,1) has been successfully assigned to server no:1
+Task(35,9,4) has been successfully assigned to server no:2
+Current time: 10
+Task 9 has been successfully processed
+Task(7,10,5) has been successfully assigned to server no:1
+Current time: 11
+Task(31,11,3) has been successfully assigned to server no:3
+Task(43,11,3) has been successfully assigned to server no:4
+Current time: 12
+Task 40 has been successfully processed
+Current time: 13
+Task 35 has been successfully processed
+Task(41,13,3) has been successfully assigned to server no:2
+Current time: 14
+Task 43 has been successfully processed
+Task 31 has been successfully processed
+Current time: 15
+Task 7 has been successfully processed
+Current time: 16
+Task(10,16,5) has been successfully assigned to server no:1
+Current time: 17
+Task 41 has been successfully processed
+Task(21,17,5) has been successfully assigned to server no:2
+Current time: 18
+Current time: 19
+Task(37,19,3) has been successfully assigned to server no:3
+Task(39,19,1) has been successfully assigned to server no:4
+Current time: 20
+Current time: 21
+Task 39 has been successfully processed
+Task 10 has been successfully processed
+Task(20,21,6) has been successfully assigned to server no:1
+Task(27,21,6) has been successfully assigned to server no:4
+Current time: 22
+Task 21 has been successfully processed
+Task 37 has been successfully processed
+Task(47,22,1) has been successfully assigned to server no:2
+Task(49,22,2) has been successfully assigned to server no:3
+Current time: 23
+Current time: 24
+Task 47 has been successfully processed
+Task 49 has been successfully processed
+Task(38,24,2) has been successfully assigned to server no:2
+Current time: 25
+Task(14,25,2) has been successfully assigned to server no:3
+Current time: 26
+Task 38 has been successfully processed
+Task 14 has been successfully processed
+Task(6,26,4) has been successfully assigned to server no:2
+Task(17,26,5) has been successfully assigned to server no:3
+Current time: 27
+Task 20 has been successfully processed
+Task(30,27,1) has been successfully assigned to server no:1
+Task 27 has been successfully processed
+Task(48,27,5) has been successfully assigned to server no:4
+Current time: 28
+Task 30 has been successfully processed
+Task(11,28,1) has been successfully assigned to server no:1
+Task(24,28,6) has been successfully assigned to server no:5
+Current time: 29
+Task 11 has been successfully processed
+Current time: 30
+Task 6 has been successfully processed
+Task(5,30,4) has been successfully assigned to server no:1
+Task(18,30,3) has been successfully assigned to server no:2
+Current time: 31
+Task(12,31,6) has been successfully assigned to server no:1
+Task(16,31,1) has been successfully assigned to server no:2
+Current time: 32
+Task 17 has been successfully processed
+Task(1,32,3) has been successfully assigned to server no:3
+Task(15,32,2) has been successfully assigned to server no:3
+Current time: 33
+Task 48 has been successfully processed
+Task 18 has been successfully processed
+Task(19,33,3) has been successfully assigned to server no:4
+Task(25,33,1) has been successfully assigned to server no:2
+Task(46,33,6) has been successfully assigned to server no:4
+Current time: 34
+Task 24 has been successfully processed
+Task 5 has been successfully processed
+Task 16 has been successfully processed
+Task(8,34,5) has been successfully assigned to server no:5
+Task 1 has been successfully processed
+Current time: 35
+Task 25 has been successfully processed
+Task(22,35,1) has been successfully assigned to server no:2
+Task(23,35,5) has been successfully assigned to server no:1
+Task(26,35,5) has been successfully assigned to server no:2
+Task(50,35,1) has been successfully assigned to server no:3
+Current time: 36
+Task 19 has been successfully processed
+Task 22 has been successfully processed
+Task 15 has been successfully processed
+Current time: 37
+Task(13,37,3) has been successfully assigned to server no:3
+Task(28,37,1) has been successfully assigned to server no:2
+Current time: 38
+Task 50 has been successfully processed
+Task(4,38,6) has been successfully assigned to server no:3
+Task(29,38,5) has been successfully assigned to server no:4
+Task(32,38,6) has been successfully assigned to server no:5
+Current time: 39
+Task 8 has been successfully processed
+Current time: 40
+Task 12 has been successfully processed
+Task 13 has been successfully processed
+Current time: 41
+Task 26 has been successfully processed
+Current time: 42
+Task 46 has been successfully processed
+Task 28 has been successfully processed
+Current time: 43
+Current time: 44
+Current time: 45
+Task 32 has been successfully processed
+Task 23 has been successfully processed
+Current time: 46
+Task 4 has been successfully processed
+Current time: 47
+Task 29 has been successfully processed
+Current time: 48
+Current time: 49
+Current time: 50
+Current time: 51
+Current time: 52
+Current time: 53
+Current time: 54
+Current time: 55
+Current time: 56
+Current time: 57
+Current time: 58
+Current time: 59
+Current time: 60
+Average Waiting Time: 3.3
