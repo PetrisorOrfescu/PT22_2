@@ -1,0 +1,1887 @@
+Current time: 0
+Current time: 1
+Current time: 2
+Current time: 3
+Current time: 4
+Current time: 5
+Current time: 6
+Current time: 7
+Current time: 8
+Current time: 9
+Current time: 10
+Task(20,10,4) has been successfully assigned to server no:1
+Task(142,10,4) has been successfully assigned to server no:2
+Task(214,10,6) has been successfully assigned to server no:3
+Task(382,10,3) has been successfully assigned to server no:4
+Task(393,10,3) has been successfully assigned to server no:5
+Task(509,10,3) has been successfully assigned to server no:6
+Task(545,10,6) has been successfully assigned to server no:7
+Task(547,10,7) has been successfully assigned to server no:8
+Task(820,10,8) has been successfully assigned to server no:9
+Task(860,10,5) has been successfully assigned to server no:10
+Task(864,10,4) has been successfully assigned to server no:11
+Task(896,10,8) has been successfully assigned to server no:12
+Task(978,10,3) has been successfully assigned to server no:13
+Current time: 11
+Task(54,11,3) has been successfully assigned to server no:14
+Task(84,11,5) has been successfully assigned to server no:15
+Task(104,11,8) has been successfully assigned to server no:16
+Task(220,11,3) has been successfully assigned to server no:17
+Task(363,11,7) has been successfully assigned to server no:18
+Task(540,11,5) has been successfully assigned to server no:19
+Task(570,11,4) has been successfully assigned to server no:20
+Task(625,11,5) has been successfully assigned to server no:1
+Task(660,11,6) has been successfully assigned to server no:2
+Task(683,11,3) has been successfully assigned to server no:3
+Task(854,11,7) has been successfully assigned to server no:4
+Task(899,11,3) has been successfully assigned to server no:5
+Current time: 12
+Task(360,12,4) has been successfully assigned to server no:6
+Task(399,12,4) has been successfully assigned to server no:7
+Task(402,12,7) has been successfully assigned to server no:8
+Task(471,12,4) has been successfully assigned to server no:9
+Task(484,12,6) has been successfully assigned to server no:10
+Task(558,12,5) has been successfully assigned to server no:11
+Task(571,12,5) has been successfully assigned to server no:12
+Task(664,12,7) has been successfully assigned to server no:13
+Task(780,12,3) has been successfully assigned to server no:14
+Task(863,12,8) has been successfully assigned to server no:15
+Task(889,12,6) has been successfully assigned to server no:16
+Current time: 13
+Task 393 has been successfully processed
+Task 509 has been successfully processed
+Task 382 has been successfully processed
+Task 978 has been successfully processed
+Task(40,13,4) has been successfully assigned to server no:4
+Task(240,13,4) has been successfully assigned to server no:5
+Task(377,13,4) has been successfully assigned to server no:6
+Task(380,13,5) has been successfully assigned to server no:13
+Task(412,13,8) has been successfully assigned to server no:17
+Task(442,13,5) has been successfully assigned to server no:18
+Task(456,13,6) has been successfully assigned to server no:19
+Task(479,13,4) has been successfully assigned to server no:20
+Task(553,13,3) has been successfully assigned to server no:1
+Task(742,13,3) has been successfully assigned to server no:2
+Task(748,13,6) has been successfully assigned to server no:3
+Task(762,13,3) has been successfully assigned to server no:4
+Task(778,13,8) has been successfully assigned to server no:5
+Task(931,13,6) has been successfully assigned to server no:6
+Task(970,13,3) has been successfully assigned to server no:7
+Task(976,13,4) has been successfully assigned to server no:8
+Current time: 14
+Task 20 has been successfully processed
+Task 142 has been successfully processed
+Task 864 has been successfully processed
+Task 54 has been successfully processed
+Task 220 has been successfully processed
+Task(296,14,6) has been successfully assigned to server no:11
+Task(315,14,6) has been successfully assigned to server no:14
+Task(338,14,3) has been successfully assigned to server no:17
+Task(354,14,7) has been successfully assigned to server no:1
+Task(629,14,5) has been successfully assigned to server no:2
+Task(636,14,7) has been successfully assigned to server no:9
+Task(708,14,5) has been successfully assigned to server no:10
+Task(791,14,3) has been successfully assigned to server no:11
+Task(908,14,6) has been successfully assigned to server no:12
+Task(997,14,8) has been successfully assigned to server no:13
+Current time: 15
+Task 860 has been successfully processed
+Task(16,15,3) has been successfully assigned to server no:10
+Task(17,15,7) has been successfully assigned to server no:14
+Task(51,15,6) has been successfully assigned to server no:15
+Task(87,15,6) has been successfully assigned to server no:16
+Task(106,15,5) has been successfully assigned to server no:17
+Task 570 has been successfully processed
+Task(115,15,5) has been successfully assigned to server no:20
+Task(161,15,5) has been successfully assigned to server no:18
+Task(196,15,3) has been successfully assigned to server no:19
+Task(222,15,7) has been successfully assigned to server no:20
+Task(256,15,7) has been successfully assigned to server no:1
+Task(472,15,7) has been successfully assigned to server no:2
+Task(520,15,7) has been successfully assigned to server no:3
+Task(555,15,5) has been successfully assigned to server no:4
+Task(624,15,8) has been successfully assigned to server no:5
+Task(837,15,6) has been successfully assigned to server no:6
+Task(885,15,6) has been successfully assigned to server no:7
+Task(886,15,8) has been successfully assigned to server no:8
+Task(919,15,6) has been successfully assigned to server no:9
+Current time: 16
+Task 214 has been successfully processed
+Task 899 has been successfully processed
+Task 545 has been successfully processed
+Task 84 has been successfully processed
+Task(78,16,4) has been successfully assigned to server no:15
+Task 540 has been successfully processed
+Task(171,16,5) has been successfully assigned to server no:19
+Task(311,16,6) has been successfully assigned to server no:3
+Task(339,16,3) has been successfully assigned to server no:5
+Task(422,16,8) has been successfully assigned to server no:7
+Task(476,16,6) has been successfully assigned to server no:10
+Task(510,16,5) has been successfully assigned to server no:11
+Task(600,16,5) has been successfully assigned to server no:12
+Task(652,16,3) has been successfully assigned to server no:13
+Task(884,16,8) has been successfully assigned to server no:14
+Current time: 17
+Task 360 has been successfully processed
+Task 547 has been successfully processed
+Task 780 has been successfully processed
+Task(12,17,7) has been successfully assigned to server no:6
+Task(173,17,8) has been successfully assigned to server no:8
+Task(178,17,7) has been successfully assigned to server no:14
+Task(302,17,8) has been successfully assigned to server no:15
+Task(536,17,6) has been successfully assigned to server no:16
+Task(580,17,8) has been successfully assigned to server no:17
+Task(686,17,5) has been successfully assigned to server no:18
+Task(717,17,7) has been successfully assigned to server no:19
+Task(728,17,8) has been successfully assigned to server no:20
+Task(793,17,3) has been successfully assigned to server no:1
+Current time: 18
+Task 820 has been successfully processed
+Task 896 has been successfully processed
+Task 363 has been successfully processed
+Task(4,18,3) has been successfully assigned to server no:9
+Task(61,18,8) has been successfully assigned to server no:12
+Task(137,18,3) has been successfully assigned to server no:18
+Task(246,18,4) has been successfully assigned to server no:2
+Task(344,18,6) has been successfully assigned to server no:3
+Task(381,18,7) has been successfully assigned to server no:4
+Task(449,18,7) has been successfully assigned to server no:5
+Task(451,18,4) has been successfully assigned to server no:6
+Task(577,18,8) has been successfully assigned to server no:7
+Task(639,18,7) has been successfully assigned to server no:8
+Task(774,18,6) has been successfully assigned to server no:9
+Task(806,18,6) has been successfully assigned to server no:10
+Task(828,18,5) has been successfully assigned to server no:11
+Task(914,18,8) has been successfully assigned to server no:12
+Task(957,18,6) has been successfully assigned to server no:13
+Task(965,18,8) has been successfully assigned to server no:14
+Task(972,18,8) has been successfully assigned to server no:15
+Task(993,18,6) has been successfully assigned to server no:16
+Current time: 19
+Task 625 has been successfully processed
+Task 683 has been successfully processed
+Task 558 has been successfully processed
+Task 104 has been successfully processed
+Task(13,19,6) has been successfully assigned to server no:1
+Task(28,19,8) has been successfully assigned to server no:3
+Task(66,19,4) has been successfully assigned to server no:11
+Task(186,19,4) has been successfully assigned to server no:16
+Task(238,19,8) has been successfully assigned to server no:17
+Task(278,19,7) has been successfully assigned to server no:18
+Task(290,19,7) has been successfully assigned to server no:19
+Task(359,19,6) has been successfully assigned to server no:20
+Task(394,19,4) has been successfully assigned to server no:1
+Task(413,19,4) has been successfully assigned to server no:2
+Task(438,19,4) has been successfully assigned to server no:3
+Task(466,19,5) has been successfully assigned to server no:20
+Task 479 has been successfully processed
+Task(611,19,4) has been successfully assigned to server no:4
+Task(623,19,6) has been successfully assigned to server no:5
+Task(668,19,6) has been successfully assigned to server no:6
+Task(796,19,4) has been successfully assigned to server no:7
+Task(954,19,7) has been successfully assigned to server no:8
+Current time: 20
+Task 660 has been successfully processed
+Task 854 has been successfully processed
+Task 240 has been successfully processed
+Task 399 has been successfully processed
+Task 664 has been successfully processed
+Task(46,20,3) has been successfully assigned to server no:13
+Task(63,20,8) has been successfully assigned to server no:2
+Task(223,20,4) has been successfully assigned to server no:4
+Task(464,20,4) has been successfully assigned to server no:5
+Task(521,20,6) has been successfully assigned to server no:7
+Task(533,20,5) has been successfully assigned to server no:9
+Task(605,20,4) has been successfully assigned to server no:10
+Task(661,20,6) has been successfully assigned to server no:11
+Task(693,20,8) has been successfully assigned to server no:12
+Task(736,20,5) has been successfully assigned to server no:13
+Task(843,20,5) has been successfully assigned to server no:14
+Task(963,20,3) has been successfully assigned to server no:15
+Current time: 21
+Task 377 has been successfully processed
+Task 484 has been successfully processed
+Task(108,21,5) has been successfully assigned to server no:6
+Task(114,21,5) has been successfully assigned to server no:10
+Task(448,21,5) has been successfully assigned to server no:16
+Task(467,21,6) has been successfully assigned to server no:17
+Task(554,21,6) has been successfully assigned to server no:18
+Task(831,21,8) has been successfully assigned to server no:19
+Task(865,21,6) has been successfully assigned to server no:20
+Task(877,21,5) has been successfully assigned to server no:1
+Task(973,21,7) has been successfully assigned to server no:2
+Task(982,21,7) has been successfully assigned to server no:3
+Current time: 22
+Task 553 has been successfully processed
+Task 471 has been successfully processed
+Task 412 has been successfully processed
+Task(242,22,6) has been successfully assigned to server no:9
+Task 456 has been successfully processed
+Task(291,22,3) has been successfully assigned to server no:17
+Task(418,22,5) has been successfully assigned to server no:19
+Task(445,22,3) has been successfully assigned to server no:1
+Task(461,22,6) has been successfully assigned to server no:4
+Task(582,22,6) has been successfully assigned to server no:5
+Task(597,22,4) has been successfully assigned to server no:6
+Task(632,22,3) has been successfully assigned to server no:7
+Task(688,22,5) has been successfully assigned to server no:8
+Task(768,22,7) has been successfully assigned to server no:9
+Task(918,22,4) has been successfully assigned to server no:10
+Current time: 23
+Task 742 has been successfully processed
+Task 970 has been successfully processed
+Task 571 has been successfully processed
+Task 315 has been successfully processed
+Task 442 has been successfully processed
+Task(18,23,8) has been successfully assigned to server no:12
+Task(33,23,7) has been successfully assigned to server no:14
+Task(245,23,3) has been successfully assigned to server no:18
+Task(366,23,4) has been successfully assigned to server no:2
+Task(369,23,7) has been successfully assigned to server no:7
+Task(453,23,4) has been successfully assigned to server no:11
+Task(487,23,5) has been successfully assigned to server no:12
+Task(489,23,7) has been successfully assigned to server no:13
+Task(584,23,4) has been successfully assigned to server no:14
+Task(740,23,8) has been successfully assigned to server no:15
+Task(766,23,8) has been successfully assigned to server no:16
+Task(850,23,8) has been successfully assigned to server no:17
+Task(933,23,8) has been successfully assigned to server no:18
+Task(986,23,4) has been successfully assigned to server no:19
+Current time: 24
+Task 40 has been successfully processed
+Task 402 has been successfully processed
+Task 863 has been successfully processed
+Task(268,24,8) has been successfully assigned to server no:4
+Task(308,24,6) has been successfully assigned to server no:8
+Task(391,24,6) has been successfully assigned to server no:15
+Task(506,24,7) has been successfully assigned to server no:20
+Task 115 has been successfully processed
+Task(512,24,6) has been successfully assigned to server no:20
+Task(549,24,5) has been successfully assigned to server no:1
+Task(658,24,7) has been successfully assigned to server no:2
+Task(798,24,5) has been successfully assigned to server no:3
+Task(895,24,5) has been successfully assigned to server no:4
+Task(951,24,8) has been successfully assigned to server no:5
+Task(989,24,8) has been successfully assigned to server no:6
+Current time: 25
+Task 748 has been successfully processed
+Task 296 has been successfully processed
+Task 380 has been successfully processed
+Task 889 has been successfully processed
+Task 338 has been successfully processed
+Task 196 has been successfully processed
+Task(79,25,4) has been successfully assigned to server no:11
+Task(91,25,5) has been successfully assigned to server no:13
+Task(189,25,6) has been successfully assigned to server no:16
+Task(199,25,8) has been successfully assigned to server no:17
+Task(266,25,8) has been successfully assigned to server no:19
+Task(341,25,3) has been successfully assigned to server no:3
+Task(386,25,4) has been successfully assigned to server no:7
+Task(424,25,3) has been successfully assigned to server no:8
+Task(460,25,3) has been successfully assigned to server no:9
+Task(477,25,5) has been successfully assigned to server no:10
+Task(535,25,5) has been successfully assigned to server no:11
+Task(541,25,6) has been successfully assigned to server no:12
+Task(560,25,3) has been successfully assigned to server no:13
+Task(672,25,8) has been successfully assigned to server no:14
+Task(894,25,7) has been successfully assigned to server no:15
+Task(944,25,8) has been successfully assigned to server no:16
+Current time: 26
+Task 708 has been successfully processed
+Task(3,26,8) has been successfully assigned to server no:10
+Task(23,26,7) has been successfully assigned to server no:17
+Task(282,26,7) has been successfully assigned to server no:18
+Task(326,26,7) has been successfully assigned to server no:19
+Task(446,26,5) has been successfully assigned to server no:20
+Task(486,26,4) has been successfully assigned to server no:1
+Task(524,26,3) has been successfully assigned to server no:2
+Task(679,26,5) has been successfully assigned to server no:3
+Task(700,26,4) has been successfully assigned to server no:4
+Task(846,26,8) has been successfully assigned to server no:5
+Task(852,26,3) has been successfully assigned to server no:6
+Task(857,26,3) has been successfully assigned to server no:7
+Current time: 27
+Task 762 has been successfully processed
+Task 931 has been successfully processed
+Task(73,27,4) has been successfully assigned to server no:4
+Task(139,27,6) has been successfully assigned to server no:6
+Task(156,27,3) has been successfully assigned to server no:8
+Task(168,27,8) has been successfully assigned to server no:9
+Task(264,27,3) has been successfully assigned to server no:10
+Task(285,27,5) has been successfully assigned to server no:11
+Task(292,27,4) has been successfully assigned to server no:12
+Task(347,27,8) has been successfully assigned to server no:13
+Task(569,27,3) has been successfully assigned to server no:14
+Task(723,27,5) has been successfully assigned to server no:15
+Task(804,27,4) has been successfully assigned to server no:16
+Task(869,27,3) has been successfully assigned to server no:17
+Task(955,27,4) has been successfully assigned to server no:18
+Task(966,27,8) has been successfully assigned to server no:19
+Current time: 28
+Task 629 has been successfully processed
+Task 778 has been successfully processed
+Task 976 has been successfully processed
+Task 791 has been successfully processed
+Task 161 has been successfully processed
+Task(232,28,8) has been successfully assigned to server no:2
+Task(272,28,7) has been successfully assigned to server no:5
+Task(406,28,3) has been successfully assigned to server no:8
+Task(564,28,8) has been successfully assigned to server no:11
+Task(583,28,4) has been successfully assigned to server no:18
+Task(647,28,7) has been successfully assigned to server no:20
+Task(665,28,4) has been successfully assigned to server no:1
+Task(747,28,7) has been successfully assigned to server no:2
+Task(851,28,3) has been successfully assigned to server no:3
+Task(875,28,6) has been successfully assigned to server no:4
+Task(959,28,4) has been successfully assigned to server no:5
+Current time: 29
+Task 354 has been successfully processed
+Task 885 has been successfully processed
+Task 636 has been successfully processed
+Task 16 has been successfully processed
+Task 908 has been successfully processed
+Task(123,29,4) has been successfully assigned to server no:7
+Task(129,29,5) has been successfully assigned to server no:9
+Task(153,29,7) has been successfully assigned to server no:10
+Task(193,29,8) has been successfully assigned to server no:12
+Task(330,29,8) has been successfully assigned to server no:1
+Task(362,29,3) has been successfully assigned to server no:6
+Task(529,29,3) has been successfully assigned to server no:7
+Task(573,29,4) has been successfully assigned to server no:8
+Task(591,29,6) has been successfully assigned to server no:9
+Task(730,29,5) has been successfully assigned to server no:10
+Task(755,29,7) has been successfully assigned to server no:11
+Task(792,29,3) has been successfully assigned to server no:12
+Current time: 30
+Task 17 has been successfully processed
+Task 51 has been successfully processed
+Task 106 has been successfully processed
+Task(24,30,8) has been successfully assigned to server no:14
+Task(49,30,5) has been successfully assigned to server no:15
+Task 171 has been successfully processed
+Task(109,30,5) has been successfully assigned to server no:17
+Task(237,30,3) has been successfully assigned to server no:19
+Task(398,30,4) has been successfully assigned to server no:13
+Task(403,30,5) has been successfully assigned to server no:14
+Task(425,30,8) has been successfully assigned to server no:15
+Task(789,30,8) has been successfully assigned to server no:16
+Task(844,30,7) has been successfully assigned to server no:17
+Task(870,30,8) has been successfully assigned to server no:18
+Task(879,30,7) has been successfully assigned to server no:19
+Task(911,30,4) has been successfully assigned to server no:20
+Current time: 31
+Task 87 has been successfully processed
+Task(14,31,5) has been successfully assigned to server no:16
+Task(76,31,6) has been successfully assigned to server no:1
+Task(111,31,3) has been successfully assigned to server no:2
+Task(210,31,7) has been successfully assigned to server no:3
+Task(219,31,8) has been successfully assigned to server no:4
+Task(288,31,3) has been successfully assigned to server no:5
+Task(457,31,5) has been successfully assigned to server no:6
+Task(485,31,7) has been successfully assigned to server no:7
+Task(493,31,7) has been successfully assigned to server no:8
+Task(544,31,5) has been successfully assigned to server no:9
+Task(567,31,7) has been successfully assigned to server no:10
+Task(608,31,8) has been successfully assigned to server no:20
+Task(671,31,5) has been successfully assigned to server no:11
+Task(713,31,4) has been successfully assigned to server no:12
+Task(900,31,6) has been successfully assigned to server no:13
+Task(939,31,7) has been successfully assigned to server no:14
+Task 222 has been successfully processed
+Current time: 32
+Task 520 has been successfully processed
+Task 555 has been successfully processed
+Task(164,32,6) has been successfully assigned to server no:3
+Task(260,32,7) has been successfully assigned to server no:4
+Task(289,32,6) has been successfully assigned to server no:15
+Task(294,32,4) has been successfully assigned to server no:16
+Task(420,32,4) has been successfully assigned to server no:17
+Task(575,32,6) has been successfully assigned to server no:18
+Task(586,32,6) has been successfully assigned to server no:19
+Task(621,32,3) has been successfully assigned to server no:20
+Task(659,32,6) has been successfully assigned to server no:1
+Task(676,32,3) has been successfully assigned to server no:2
+Task(710,32,6) has been successfully assigned to server no:3
+Task(770,32,3) has been successfully assigned to server no:4
+Task(817,32,5) has been successfully assigned to server no:5
+Task(974,32,8) has been successfully assigned to server no:6
+Task(994,32,5) has been successfully assigned to server no:7
+Current time: 33
+Task 837 has been successfully processed
+Task 510 has been successfully processed
+Task 997 has been successfully processed
+Task 686 has been successfully processed
+Task(9,33,6) has been successfully assigned to server no:11
+Task(48,33,6) has been successfully assigned to server no:13
+Task(221,33,5) has been successfully assigned to server no:18
+Task(255,33,7) has been successfully assigned to server no:6
+Task(373,33,6) has been successfully assigned to server no:8
+Task(375,33,6) has been successfully assigned to server no:9
+Task(568,33,7) has been successfully assigned to server no:10
+Task(572,33,4) has been successfully assigned to server no:11
+Task(891,33,3) has been successfully assigned to server no:12
+Current time: 34
+Task 600 has been successfully processed
+Task 78 has been successfully processed
+Task(41,34,5) has been successfully assigned to server no:15
+Task(50,34,6) has been successfully assigned to server no:12
+Task(64,34,6) has been successfully assigned to server no:13
+Task(130,34,3) has been successfully assigned to server no:14
+Task(269,34,6) has been successfully assigned to server no:15
+Task(271,34,5) has been successfully assigned to server no:16
+Task(309,34,7) has been successfully assigned to server no:17
+Task(365,34,3) has been successfully assigned to server no:18
+Task(379,34,4) has been successfully assigned to server no:19
+Task(414,34,3) has been successfully assigned to server no:20
+Task(429,34,3) has been successfully assigned to server no:1
+Task(444,34,3) has been successfully assigned to server no:2
+Task(532,34,8) has been successfully assigned to server no:3
+Task(644,34,4) has been successfully assigned to server no:4
+Task(781,34,6) has been successfully assigned to server no:5
+Current time: 35
+Task 472 has been successfully processed
+Task 919 has been successfully processed
+Task 476 has been successfully processed
+Task(2,35,8) has been successfully assigned to server no:9
+Task(55,35,5) has been successfully assigned to server no:10
+Task(75,35,6) has been successfully assigned to server no:2
+Task(107,35,5) has been successfully assigned to server no:6
+Task(244,35,8) has been successfully assigned to server no:7
+Task(610,35,5) has been successfully assigned to server no:8
+Task(695,35,7) has been successfully assigned to server no:9
+Task(800,35,5) has been successfully assigned to server no:10
+Task(814,35,6) has been successfully assigned to server no:11
+Task(943,35,8) has been successfully assigned to server no:12
+Current time: 36
+Task 256 has been successfully processed
+Task 624 has been successfully processed
+Task 886 has been successfully processed
+Task 652 has been successfully processed
+Task 137 has been successfully processed
+Task(182,36,3) has been successfully assigned to server no:13
+Task(228,36,8) has been successfully assigned to server no:18
+Task(304,36,5) has been successfully assigned to server no:1
+Task(357,36,7) has been successfully assigned to server no:5
+Task(543,36,3) has been successfully assigned to server no:8
+Task(628,36,8) has been successfully assigned to server no:13
+Task(635,36,4) has been successfully assigned to server no:14
+Task(758,36,3) has been successfully assigned to server no:15
+Task(777,36,3) has been successfully assigned to server no:16
+Current time: 37
+Task 422 has been successfully processed
+Task 536 has been successfully processed
+Task(335,37,7) has been successfully assigned to server no:7
+Task 717 has been successfully processed
+Task(367,37,5) has been successfully assigned to server no:19
+Task(417,37,6) has been successfully assigned to server no:16
+Task(436,37,8) has been successfully assigned to server no:17
+Task(483,37,4) has been successfully assigned to server no:18
+Task(578,37,5) has been successfully assigned to server no:19
+Task(642,37,5) has been successfully assigned to server no:20
+Task(735,37,3) has been successfully assigned to server no:1
+Current time: 38
+Task 311 has been successfully processed
+Task 4 has been successfully processed
+Task 828 has been successfully processed
+Task 884 has been successfully processed
+Task 580 has been successfully processed
+Task(11,38,5) has been successfully assigned to server no:3
+Task(37,38,6) has been successfully assigned to server no:9
+Task(69,38,5) has been successfully assigned to server no:11
+Task(120,38,3) has been successfully assigned to server no:14
+Task(132,38,5) has been successfully assigned to server no:17
+Task(174,38,7) has been successfully assigned to server no:2
+Task(179,38,7) has been successfully assigned to server no:3
+Task(273,38,5) has been successfully assigned to server no:4
+Task(317,38,3) has been successfully assigned to server no:5
+Task(320,38,5) has been successfully assigned to server no:6
+Task(358,38,4) has been successfully assigned to server no:7
+Task(609,38,3) has been successfully assigned to server no:8
+Task(890,38,6) has been successfully assigned to server no:9
+Task(927,38,5) has been successfully assigned to server no:10
+Current time: 39
+Task 793 has been successfully processed
+Task 246 has been successfully processed
+Task 381 has been successfully processed
+Task 339 has been successfully processed
+Task(26,39,5) has been successfully assigned to server no:1
+Task(60,39,8) has been successfully assigned to server no:2
+Task(67,39,3) has been successfully assigned to server no:4
+Task(125,39,7) has been successfully assigned to server no:5
+Task(388,39,7) has been successfully assigned to server no:11
+Task(517,39,5) has been successfully assigned to server no:12
+Task(867,39,8) has been successfully assigned to server no:13
+Task 728 has been successfully processed
+Current time: 40
+Task 12 has been successfully processed
+Task(92,40,7) has been successfully assigned to server no:20
+Task(98,40,4) has been successfully assigned to server no:6
+Task(216,40,7) has been successfully assigned to server no:14
+Task(262,40,3) has been successfully assigned to server no:15
+Task(325,40,8) has been successfully assigned to server no:16
+Task(343,40,7) has been successfully assigned to server no:17
+Task(387,40,4) has been successfully assigned to server no:18
+Task(469,40,4) has been successfully assigned to server no:19
+Task(546,40,8) has been successfully assigned to server no:20
+Task(641,40,5) has been successfully assigned to server no:1
+Task(673,40,3) has been successfully assigned to server no:2
+Task(685,40,3) has been successfully assigned to server no:3
+Task(696,40,8) has been successfully assigned to server no:4
+Task(949,40,8) has been successfully assigned to server no:5
+Current time: 41
+Task 806 has been successfully processed
+Task(824,41,7) has been successfully assigned to server no:10
+Task(873,41,3) has been successfully assigned to server no:6
+Task(964,41,3) has been successfully assigned to server no:7
+Task(981,41,5) has been successfully assigned to server no:8
+Current time: 42
+Task 66 has been successfully processed
+Task 61 has been successfully processed
+Task 957 has been successfully processed
+Task 302 has been successfully processed
+Task(83,42,3) has been successfully assigned to server no:11
+Task(103,42,5) has been successfully assigned to server no:12
+Task(155,42,7) has been successfully assigned to server no:13
+Task(276,42,7) has been successfully assigned to server no:15
+Task(316,42,8) has been successfully assigned to server no:9
+Task(329,42,7) has been successfully assigned to server no:10
+Task(633,42,3) has been successfully assigned to server no:11
+Task(874,42,8) has been successfully assigned to server no:12
+Task(936,42,5) has been successfully assigned to server no:13
+Current time: 43
+Task 413 has been successfully processed
+Task 611 has been successfully processed
+Task 993 has been successfully processed
+Task 278 has been successfully processed
+Task(94,43,5) has been successfully assigned to server no:16
+Task(116,43,8) has been successfully assigned to server no:18
+Task(321,43,7) has been successfully assigned to server no:2
+Task(433,43,5) has been successfully assigned to server no:4
+Task(504,43,7) has been successfully assigned to server no:14
+Task(548,43,4) has been successfully assigned to server no:15
+Task(593,43,3) has been successfully assigned to server no:16
+Task(786,43,5) has been successfully assigned to server no:17
+Task(797,43,8) has been successfully assigned to server no:18
+Task(801,43,3) has been successfully assigned to server no:19
+Task(871,43,4) has been successfully assigned to server no:20
+Task(904,43,8) has been successfully assigned to server no:1
+Task(926,43,3) has been successfully assigned to server no:2
+Task(948,43,3) has been successfully assigned to server no:3
+Current time: 44
+Task 344 has been successfully processed
+Task 451 has been successfully processed
+Task 173 has been successfully processed
+Task 774 has been successfully processed
+Task(6,44,4) has been successfully assigned to server no:6
+Task 290 has been successfully processed
+Task(52,44,4) has been successfully assigned to server no:8
+Task(191,44,5) has been successfully assigned to server no:9
+Task(327,44,6) has been successfully assigned to server no:19
+Task(355,44,6) has been successfully assigned to server no:3
+Task(395,44,4) has been successfully assigned to server no:4
+Task(598,44,3) has been successfully assigned to server no:5
+Task(822,44,3) has been successfully assigned to server no:6
+Task(882,44,4) has been successfully assigned to server no:7
+Task(930,44,3) has been successfully assigned to server no:8
+Task(934,44,6) has been successfully assigned to server no:9
+Task(968,44,8) has been successfully assigned to server no:10
+Current time: 45
+Task 13 has been successfully processed
+Task 577 has been successfully processed
+Task 605 has been successfully processed
+Task 46 has been successfully processed
+Task 178 has been successfully processed
+Task(1,45,5) has been successfully assigned to server no:13
+Task(145,45,6) has been successfully assigned to server no:14
+Task(159,45,7) has been successfully assigned to server no:1
+Task(340,45,8) has been successfully assigned to server no:7
+Task(409,45,7) has been successfully assigned to server no:10
+Task(670,45,6) has been successfully assigned to server no:11
+Task(773,45,7) has been successfully assigned to server no:12
+Task(995,45,7) has been successfully assigned to server no:13
+Current time: 46
+Task 359 has been successfully processed
+Task 449 has been successfully processed
+Task 238 has been successfully processed
+Task(34,46,8) has been successfully assigned to server no:17
+Task(352,46,3) has been successfully assigned to server no:20
+Task(447,46,3) has been successfully assigned to server no:5
+Task(492,46,6) has been successfully assigned to server no:14
+Task(514,46,5) has been successfully assigned to server no:15
+Task(901,46,4) has been successfully assigned to server no:16
+Task(941,46,6) has been successfully assigned to server no:17
+Current time: 47
+Task 223 has been successfully processed
+Task 186 has been successfully processed
+Task(25,47,3) has been successfully assigned to server no:4
+Task(43,47,7) has been successfully assigned to server no:16
+Task(47,47,5) has been successfully assigned to server no:18
+Task(100,47,6) has been successfully assigned to server no:19
+Task(251,47,7) has been successfully assigned to server no:20
+Task(454,47,6) has been successfully assigned to server no:1
+Task(475,47,7) has been successfully assigned to server no:2
+Task(528,47,3) has been successfully assigned to server no:3
+Task(705,47,8) has been successfully assigned to server no:4
+Task(739,47,7) has been successfully assigned to server no:5
+Task(757,47,5) has been successfully assigned to server no:6
+Task(761,47,6) has been successfully assigned to server no:7
+Task(788,47,3) has been successfully assigned to server no:8
+Task(826,47,4) has been successfully assigned to server no:9
+Task(928,47,8) has been successfully assigned to server no:10
+Task(938,47,4) has been successfully assigned to server no:11
+Current time: 48
+Task 661 has been successfully processed
+Task(35,48,7) has been successfully assigned to server no:11
+Task(85,48,8) has been successfully assigned to server no:12
+Task(167,48,5) has been successfully assigned to server no:13
+Task(434,48,7) has been successfully assigned to server no:14
+Task(556,48,5) has been successfully assigned to server no:15
+Task(562,48,7) has been successfully assigned to server no:16
+Task(720,48,4) has been successfully assigned to server no:17
+Task(769,48,7) has been successfully assigned to server no:18
+Task(816,48,8) has been successfully assigned to server no:19
+Task(838,48,6) has been successfully assigned to server no:20
+Task(853,48,5) has been successfully assigned to server no:1
+Task(910,48,6) has been successfully assigned to server no:2
+Task(921,48,8) has been successfully assigned to server no:3
+Current time: 49
+Task 394 has been successfully processed
+Task 796 has been successfully processed
+Task 533 has been successfully processed
+Task 554 has been successfully processed
+Task(117,49,6) has been successfully assigned to server no:7
+Task(254,49,6) has been successfully assigned to server no:9
+Task(263,49,5) has been successfully assigned to server no:18
+Task(286,49,5) has been successfully assigned to server no:1
+Task(704,49,3) has been successfully assigned to server no:4
+Task(731,49,8) has been successfully assigned to server no:5
+Current time: 50
+Task 668 has been successfully processed
+Task 114 has been successfully processed
+Task 914 has been successfully processed
+Task 736 has been successfully processed
+Task 972 has been successfully processed
+Task(151,50,8) has been successfully assigned to server no:6
+Task(165,50,6) has been successfully assigned to server no:10
+Task(295,50,7) has been successfully assigned to server no:12
+Task(518,50,4) has been successfully assigned to server no:13
+Task(718,50,4) has been successfully assigned to server no:15
+Task(833,50,6) has been successfully assigned to server no:6
+Current time: 51
+Task 466 has been successfully processed
+Task 63 has been successfully processed
+Task 639 has been successfully processed
+Task(738,51,3) has been successfully assigned to server no:8
+Task(807,51,8) has been successfully assigned to server no:20
+Task(906,51,6) has been successfully assigned to server no:2
+Task(969,51,7) has been successfully assigned to server no:7
+Task(975,51,4) has been successfully assigned to server no:8
+Current time: 52
+Task 28 has been successfully processed
+Task 623 has been successfully processed
+Task 453 has been successfully processed
+Task 448 has been successfully processed
+Task 467 has been successfully processed
+Task 245 has been successfully processed
+Task(231,52,5) has been successfully assigned to server no:11
+Task(663,52,3) has been successfully assigned to server no:16
+Task 831 has been successfully processed
+Task(687,52,5) has been successfully assigned to server no:17
+Task(764,52,7) has been successfully assigned to server no:18
+Task(812,52,5) has been successfully assigned to server no:19
+Task(818,52,3) has been successfully assigned to server no:3
+Task(821,52,8) has been successfully assigned to server no:5
+Task(856,52,5) has been successfully assigned to server no:9
+Current time: 53
+Task 461 has been successfully processed
+Task 965 has been successfully processed
+Task 963 has been successfully processed
+Task(287,53,3) has been successfully assigned to server no:14
+Task(351,53,5) has been successfully assigned to server no:15
+Task(480,53,4) has been successfully assigned to server no:4
+Task(495,53,8) has been successfully assigned to server no:10
+Task(516,53,5) has been successfully assigned to server no:11
+Task(525,53,4) has been successfully assigned to server no:12
+Task(666,53,8) has been successfully assigned to server no:13
+Task(712,53,3) has been successfully assigned to server no:14
+Task(859,53,7) has been successfully assigned to server no:15
+Current time: 54
+Task 877 has been successfully processed
+Task 918 has been successfully processed
+Task(203,54,6) has been successfully assigned to server no:1
+Task(239,54,5) has been successfully assigned to server no:10
+Task(250,54,5) has been successfully assigned to server no:16
+Task(280,54,6) has been successfully assigned to server no:17
+Task(306,54,5) has been successfully assigned to server no:18
+Task(356,54,3) has been successfully assigned to server no:19
+Task(470,54,5) has been successfully assigned to server no:20
+Task(538,54,5) has been successfully assigned to server no:1
+Task(813,54,6) has been successfully assigned to server no:2
+Task(834,54,7) has been successfully assigned to server no:3
+Task(898,54,5) has been successfully assigned to server no:4
+Current time: 55
+Task 108 has been successfully processed
+Task 521 has been successfully processed
+Task 242 has been successfully processed
+Task 291 has been successfully processed
+Task(80,55,4) has been successfully assigned to server no:6
+Task(118,55,8) has been successfully assigned to server no:7
+Task(160,55,5) has been successfully assigned to server no:9
+Task(170,55,7) has been successfully assigned to server no:17
+Task(310,55,3) has been successfully assigned to server no:5
+Task(324,55,8) has been successfully assigned to server no:6
+Task(523,55,5) has been successfully assigned to server no:7
+Task(645,55,3) has been successfully assigned to server no:8
+Task(760,55,4) has been successfully assigned to server no:9
+Task(783,55,7) has been successfully assigned to server no:10
+Current time: 56
+Task 438 has been successfully processed
+Task 464 has been successfully processed
+Task 79 has been successfully processed
+Task(112,56,6) has been successfully assigned to server no:11
+Task(323,56,6) has been successfully assigned to server no:3
+Task(378,56,4) has been successfully assigned to server no:5
+Task(408,56,4) has been successfully assigned to server no:11
+Task(500,56,8) has been successfully assigned to server no:12
+Task(552,56,4) has been successfully assigned to server no:13
+Task(637,56,7) has been successfully assigned to server no:14
+Task(698,56,8) has been successfully assigned to server no:15
+Task(942,56,6) has been successfully assigned to server no:16
+Current time: 57
+Task 865 has been successfully processed
+Task 445 has been successfully processed
+Task 489 has been successfully processed
+Task(90,57,5) has been successfully assigned to server no:20
+Task 418 has been successfully processed
+Task(149,57,3) has been successfully assigned to server no:19
+Task(152,57,8) has been successfully assigned to server no:1
+Task(336,57,4) has been successfully assigned to server no:13
+Task(657,57,4) has been successfully assigned to server no:17
+Current time: 58
+Task 973 has been successfully processed
+Task 632 has been successfully processed
+Task 954 has been successfully processed
+Task 693 has been successfully processed
+Task 843 has been successfully processed
+Task(99,58,3) has been successfully assigned to server no:2
+Task(184,58,5) has been successfully assigned to server no:7
+Task(303,58,3) has been successfully assigned to server no:8
+Task(349,58,3) has been successfully assigned to server no:12
+Task(372,58,3) has been successfully assigned to server no:14
+Task(389,58,5) has been successfully assigned to server no:18
+Task(585,58,8) has been successfully assigned to server no:19
+Task(726,58,7) has been successfully assigned to server no:20
+Task(996,58,8) has been successfully assigned to server no:1
+Current time: 59
+Task 597 has been successfully processed
+Task 477 has been successfully processed
+Task(39,59,3) has been successfully assigned to server no:6
+Task(44,59,8) has been successfully assigned to server no:10
+Task(146,59,8) has been successfully assigned to server no:2
+Task(201,59,5) has been successfully assigned to server no:3
+Task(328,59,3) has been successfully assigned to server no:4
+Task(431,59,7) has been successfully assigned to server no:5
+Task(465,59,6) has been successfully assigned to server no:6
+Task(909,59,5) has been successfully assigned to server no:7
+Task(945,59,4) has been successfully assigned to server no:8
+Current time: 60
+Task 766 has been successfully processed
+Task 933 has been successfully processed
+Task(45,60,5) has been successfully assigned to server no:16
+Task(82,60,6) has been successfully assigned to server no:18
+Task(197,60,7) has been successfully assigned to server no:9
+Task(198,60,3) has been successfully assigned to server no:10
+Task(205,60,3) has been successfully assigned to server no:11
+Task(225,60,4) has been successfully assigned to server no:12
+Task(283,60,7) has been successfully assigned to server no:13
+Task(634,60,5) has been successfully assigned to server no:14
+Task(709,60,7) has been successfully assigned to server no:15
+Task(715,60,7) has been successfully assigned to server no:16
+Task(729,60,6) has been successfully assigned to server no:17
+Task(775,60,4) has been successfully assigned to server no:18
+Task(878,60,8) has been successfully assigned to server no:19
+Task(881,60,8) has been successfully assigned to server no:20
+Task(915,60,4) has been successfully assigned to server no:1
+Task(1000,60,4) has been successfully assigned to server no:2
+Current time: 61
+Task 268 has been successfully processed
+Task 535 has been successfully processed
+Task 740 has been successfully processed
+Task(74,61,6) has been successfully assigned to server no:4
+Task(281,61,7) has been successfully assigned to server no:11
+Task(300,61,8) has been successfully assigned to server no:15
+Task(376,61,8) has been successfully assigned to server no:19
+Task(694,61,4) has been successfully assigned to server no:3
+Task(810,61,6) has been successfully assigned to server no:4
+Task(840,61,4) has been successfully assigned to server no:5
+Task(998,61,7) has been successfully assigned to server no:6
+Task 986 has been successfully processed
+Current time: 62
+Task 549 has been successfully processed
+Task 366 has been successfully processed
+Task 582 has been successfully processed
+Task 768 has been successfully processed
+Task 91 has been successfully processed
+Task(5,62,7) has been successfully assigned to server no:9
+Task(177,62,6) has been successfully assigned to server no:13
+Task(452,62,3) has been successfully assigned to server no:1
+Task(462,62,6) has been successfully assigned to server no:2
+Task(501,62,7) has been successfully assigned to server no:5
+Task(581,62,5) has been successfully assigned to server no:7
+Task(706,62,6) has been successfully assigned to server no:8
+Task(929,62,5) has been successfully assigned to server no:9
+Current time: 63
+Task 982 has been successfully processed
+Task 688 has been successfully processed
+Task 850 has been successfully processed
+Task(38,63,5) has been successfully assigned to server no:17
+Task(194,63,5) has been successfully assigned to server no:3
+Task(209,63,6) has been successfully assigned to server no:8
+Task(218,63,6) has been successfully assigned to server no:10
+Task(275,63,6) has been successfully assigned to server no:11
+Task(279,63,4) has been successfully assigned to server no:12
+Task(622,63,4) has been successfully assigned to server no:13
+Task(733,63,5) has been successfully assigned to server no:14
+Task(861,63,4) has been successfully assigned to server no:15
+Task(960,63,5) has been successfully assigned to server no:16
+Task(977,63,8) has been successfully assigned to server no:17
+Current time: 64
+Task 506 has been successfully processed
+Task(236,64,3) has been successfully assigned to server no:20
+Task(265,64,7) has been successfully assigned to server no:18
+Task(270,64,3) has been successfully assigned to server no:19
+Task(293,64,6) has been successfully assigned to server no:20
+Task(337,64,6) has been successfully assigned to server no:1
+Task(539,64,4) has been successfully assigned to server no:2
+Task(648,64,6) has been successfully assigned to server no:3
+Task(654,64,7) has been successfully assigned to server no:4
+Task(772,64,4) has been successfully assigned to server no:5
+Current time: 65
+Task 369 has been successfully processed
+Task 460 has been successfully processed
+Task 560 has been successfully processed
+Task 33 has been successfully processed
+Task(97,65,5) has been successfully assigned to server no:7
+Task(141,65,7) has been successfully assigned to server no:9
+Task(215,65,7) has been successfully assigned to server no:13
+Task(305,65,5) has been successfully assigned to server no:14
+Task(384,65,6) has been successfully assigned to server no:6
+Task(392,65,7) has been successfully assigned to server no:7
+Task(396,65,8) has been successfully assigned to server no:8
+Task(502,65,3) has been successfully assigned to server no:9
+Task(616,65,5) has been successfully assigned to server no:10
+Task(681,65,5) has been successfully assigned to server no:11
+Task(744,65,4) has been successfully assigned to server no:12
+Task(847,65,8) has been successfully assigned to server no:13
+Task(849,65,6) has been successfully assigned to server no:14
+Task(917,65,8) has been successfully assigned to server no:15
+Current time: 66
+Task 486 has been successfully processed
+Task 895 has been successfully processed
+Task 285 has been successfully processed
+Task 18 has been successfully processed
+Task 189 has been successfully processed
+Task(21,66,7) has been successfully assigned to server no:16
+Task(113,66,7) has been successfully assigned to server no:1
+Task(119,66,4) has been successfully assigned to server no:4
+Task(131,66,6) has been successfully assigned to server no:11
+Task(829,66,7) has been successfully assigned to server no:12
+Task(845,66,7) has been successfully assigned to server no:16
+Task(862,66,3) has been successfully assigned to server no:17
+Task(987,66,8) has been successfully assigned to server no:18
+Current time: 67
+Task 989 has been successfully processed
+Task 3 has been successfully processed
+Task 391 has been successfully processed
+Task(19,67,5) has been successfully assigned to server no:6
+Task(57,67,5) has been successfully assigned to server no:10
+Task(233,67,7) has been successfully assigned to server no:15
+Task(248,67,5) has been successfully assigned to server no:18
+Task(342,67,4) has been successfully assigned to server no:19
+Task(494,67,7) has been successfully assigned to server no:20
+Task(588,67,5) has been successfully assigned to server no:1
+Task(827,67,6) has been successfully assigned to server no:2
+Task 282 has been successfully processed
+Current time: 68
+Task 798 has been successfully processed
+Task(229,68,3) has been successfully assigned to server no:3
+Task(497,68,7) has been successfully assigned to server no:3
+Task(511,68,5) has been successfully assigned to server no:4
+Task(530,68,3) has been successfully assigned to server no:5
+Task(631,68,3) has been successfully assigned to server no:6
+Task(662,68,8) has been successfully assigned to server no:7
+Task(746,68,7) has been successfully assigned to server no:8
+Task(759,68,7) has been successfully assigned to server no:9
+Task(785,68,8) has been successfully assigned to server no:10
+Task(920,68,8) has been successfully assigned to server no:11
+Task(980,68,4) has been successfully assigned to server no:12
+Current time: 69
+Task 658 has been successfully processed
+Task 386 has been successfully processed
+Task 308 has been successfully processed
+Task 584 has been successfully processed
+Task(65,69,5) has been successfully assigned to server no:14
+Task(195,69,4) has been successfully assigned to server no:2
+Task(258,69,7) has been successfully assigned to server no:19
+Task 266 has been successfully processed
+Task(531,69,7) has been successfully assigned to server no:7
+Task(550,69,3) has been successfully assigned to server no:8
+Task(579,69,5) has been successfully assigned to server no:13
+Task(626,69,3) has been successfully assigned to server no:14
+Task(646,69,5) has been successfully assigned to server no:15
+Task(689,69,6) has been successfully assigned to server no:16
+Task(979,69,7) has been successfully assigned to server no:20
+Task 512 has been successfully processed
+Current time: 70
+Task 665 has been successfully processed
+Task 700 has been successfully processed
+Task 951 has been successfully processed
+Task 852 has been successfully processed
+Task 264 has been successfully processed
+Task(53,70,8) has been successfully assigned to server no:1
+Task(77,70,4) has been successfully assigned to server no:4
+Task(134,70,5) has been successfully assigned to server no:5
+Task(212,70,7) has been successfully assigned to server no:6
+Task(224,70,5) has been successfully assigned to server no:10
+Task(297,70,6) has been successfully assigned to server no:17
+Task(313,70,3) has been successfully assigned to server no:18
+Task(345,70,8) has been successfully assigned to server no:19
+Task(423,70,3) has been successfully assigned to server no:20
+Task(527,70,8) has been successfully assigned to server no:1
+Task(542,70,8) has been successfully assigned to server no:2
+Task(565,70,3) has been successfully assigned to server no:3
+Task(595,70,7) has been successfully assigned to server no:4
+Task(603,70,6) has been successfully assigned to server no:5
+Task(839,70,8) has been successfully assigned to server no:6
+Task(842,70,7) has been successfully assigned to server no:7
+Task(868,70,3) has been successfully assigned to server no:8
+Task(913,70,7) has been successfully assigned to server no:9
+Task(990,70,6) has been successfully assigned to server no:10
+Current time: 71
+Task 341 has been successfully processed
+Task 487 has been successfully processed
+Task 199 has been successfully processed
+Task 955 has been successfully processed
+Task(59,71,6) has been successfully assigned to server no:12
+Task(101,71,5) has been successfully assigned to server no:17
+Task(122,71,4) has been successfully assigned to server no:18
+Task(154,71,5) has been successfully assigned to server no:3
+Task(172,71,7) has been successfully assigned to server no:11
+Task(204,71,8) has been successfully assigned to server no:12
+Task(207,71,7) has been successfully assigned to server no:13
+Task(299,71,5) has been successfully assigned to server no:14
+Task(401,71,8) has been successfully assigned to server no:15
+Task(496,71,5) has been successfully assigned to server no:16
+Task(522,71,7) has been successfully assigned to server no:17
+Task(551,71,3) has been successfully assigned to server no:18
+Current time: 72
+Task 524 has been successfully processed
+Task 857 has been successfully processed
+Task 424 has been successfully processed
+Task(499,72,8) has been successfully assigned to server no:2
+Task(519,72,3) has been successfully assigned to server no:7
+Task(563,72,4) has been successfully assigned to server no:8
+Task(604,72,6) has been successfully assigned to server no:19
+Task(617,72,3) has been successfully assigned to server no:20
+Task(697,72,7) has been successfully assigned to server no:1
+Task(724,72,6) has been successfully assigned to server no:2
+Task(799,72,6) has been successfully assigned to server no:3
+Current time: 73
+Task 168 has been successfully processed
+Task 347 has been successfully processed
+Task(22,73,4) has been successfully assigned to server no:9
+Task(150,73,3) has been successfully assigned to server no:13
+Task(334,73,6) has been successfully assigned to server no:4
+Task(505,73,4) has been successfully assigned to server no:5
+Task(561,73,3) has been successfully assigned to server no:6
+Task(566,73,4) has been successfully assigned to server no:7
+Task(627,73,4) has been successfully assigned to server no:8
+Task(649,73,5) has been successfully assigned to server no:9
+Task(753,73,4) has been successfully assigned to server no:10
+Task(803,73,4) has been successfully assigned to server no:11
+Task(830,73,7) has been successfully assigned to server no:12
+Task(855,73,7) has been successfully assigned to server no:13
+Task(925,73,7) has been successfully assigned to server no:14
+Current time: 74
+Task 73 has been successfully processed
+Task 564 has been successfully processed
+Task 894 has been successfully processed
+Task(70,74,7) has been successfully assigned to server no:15
+Task(86,74,7) has been successfully assigned to server no:4
+Task(187,74,3) has been successfully assigned to server no:11
+Task(437,74,3) has been successfully assigned to server no:15
+Task(559,74,3) has been successfully assigned to server no:16
+Task(606,74,6) has been successfully assigned to server no:17
+Task(618,74,7) has been successfully assigned to server no:18
+Task(765,74,4) has been successfully assigned to server no:19
+Task(825,74,8) has been successfully assigned to server no:20
+Task(902,74,4) has been successfully assigned to server no:1
+Current time: 75
+Task 944 has been successfully processed
+Task 446 has been successfully processed
+Task 156 has been successfully processed
+Task(169,75,3) has been successfully assigned to server no:8
+Task(253,75,6) has been successfully assigned to server no:16
+Task(333,75,6) has been successfully assigned to server no:20
+Task(397,75,4) has been successfully assigned to server no:2
+Task(411,75,7) has been successfully assigned to server no:3
+Task(416,75,8) has been successfully assigned to server no:4
+Task(474,75,5) has been successfully assigned to server no:5
+Task(682,75,5) has been successfully assigned to server no:6
+Task(725,75,8) has been successfully assigned to server no:7
+Task(848,75,5) has been successfully assigned to server no:8
+Current time: 76
+Task 583 has been successfully processed
+Task 679 has been successfully processed
+Task 139 has been successfully processed
+Task 123 has been successfully processed
+Task(126,76,7) has been successfully assigned to server no:18
+Task 326 has been successfully processed
+Task(162,76,7) has been successfully assigned to server no:19
+Task(259,76,3) has been successfully assigned to server no:3
+Task(261,76,4) has been successfully assigned to server no:6
+Task(314,76,8) has been successfully assigned to server no:7
+Task(441,76,5) has been successfully assigned to server no:9
+Task(455,76,5) has been successfully assigned to server no:10
+Task(620,76,6) has been successfully assigned to server no:11
+Task(745,76,6) has been successfully assigned to server no:12
+Task(823,76,6) has been successfully assigned to server no:13
+Current time: 77
+Task 153 has been successfully processed
+Task 541 has been successfully processed
+Task 398 has been successfully processed
+Task 672 has been successfully processed
+Task(128,77,7) has been successfully assigned to server no:14
+Task(208,77,8) has been successfully assigned to server no:10
+Task(217,77,3) has been successfully assigned to server no:12
+Task(226,77,3) has been successfully assigned to server no:13
+Task(370,77,4) has been successfully assigned to server no:14
+Task(421,77,8) has been successfully assigned to server no:15
+Task(589,77,7) has been successfully assigned to server no:16
+Task(590,77,8) has been successfully assigned to server no:17
+Task(678,77,7) has been successfully assigned to server no:18
+Task(701,77,4) has been successfully assigned to server no:19
+Task(752,77,5) has been successfully assigned to server no:20
+Task(754,77,6) has been successfully assigned to server no:1
+Task(784,77,4) has been successfully assigned to server no:2
+Task(841,77,3) has been successfully assigned to server no:3
+Current time: 78
+Task 330 has been successfully processed
+Task 846 has been successfully processed
+Task 406 has been successfully processed
+Task 129 has been successfully processed
+Task 804 has been successfully processed
+Task 23 has been successfully processed
+Task(71,78,7) has been successfully assigned to server no:5
+Task(72,78,6) has been successfully assigned to server no:8
+Task(368,78,5) has been successfully assigned to server no:9
+Task(371,78,4) has been successfully assigned to server no:16
+Task(439,78,8) has been successfully assigned to server no:17
+Task(771,78,4) has been successfully assigned to server no:1
+Task(787,78,8) has been successfully assigned to server no:4
+Task(858,78,5) has been successfully assigned to server no:5
+Current time: 79
+Task 851 has been successfully processed
+Task 362 has been successfully processed
+Task 529 has been successfully processed
+Task 723 has been successfully processed
+Task(183,79,8) has been successfully assigned to server no:6
+Task(428,79,3) has been successfully assigned to server no:7
+Task(450,79,4) has been successfully assigned to server no:15
+Task(534,79,3) has been successfully assigned to server no:3
+Task(643,79,4) has been successfully assigned to server no:6
+Task(937,79,4) has been successfully assigned to server no:7
+Current time: 80
+Task 232 has been successfully processed
+Task 875 has been successfully processed
+Task 569 has been successfully processed
+Task(88,80,6) has been successfully assigned to server no:14
+Task(458,80,7) has been successfully assigned to server no:2
+Task(491,80,4) has been successfully assigned to server no:4
+Task(537,80,4) has been successfully assigned to server no:8
+Task(737,80,3) has been successfully assigned to server no:9
+Task(952,80,4) has been successfully assigned to server no:10
+Current time: 81
+Task 755 has been successfully processed
+Task 292 has been successfully processed
+Task 869 has been successfully processed
+Task(144,81,4) has been successfully assigned to server no:11
+Task(157,81,3) has been successfully assigned to server no:12
+Task(188,81,3) has been successfully assigned to server no:17
+Task(267,81,3) has been successfully assigned to server no:11
+Task(318,81,7) has been successfully assigned to server no:12
+Task(361,81,8) has been successfully assigned to server no:13
+Task(430,81,7) has been successfully assigned to server no:14
+Task(557,81,8) has been successfully assigned to server no:15
+Task(619,81,8) has been successfully assigned to server no:16
+Task(967,81,6) has been successfully assigned to server no:17
+Task(999,81,6) has been successfully assigned to server no:18
+Current time: 82
+Task 647 has been successfully processed
+Task 573 has been successfully processed
+Task 730 has been successfully processed
+Task(29,82,5) has been successfully assigned to server no:20
+Task(89,82,3) has been successfully assigned to server no:8
+Task(121,82,6) has been successfully assigned to server no:10
+Task(202,82,4) has been successfully assigned to server no:19
+Task(230,82,5) has been successfully assigned to server no:20
+Task(274,82,8) has been successfully assigned to server no:1
+Task(385,82,7) has been successfully assigned to server no:2
+Task(440,82,8) has been successfully assigned to server no:3
+Task(478,82,8) has been successfully assigned to server no:4
+Task(743,82,6) has been successfully assigned to server no:5
+Task(923,82,7) has been successfully assigned to server no:6
+Task(956,82,4) has been successfully assigned to server no:7
+Current time: 83
+Task 900 has been successfully processed
+Task 870 has been successfully processed
+Task(206,83,4) has been successfully assigned to server no:13
+Task(257,83,4) has been successfully assigned to server no:18
+Task(284,83,3) has been successfully assigned to server no:8
+Task(383,83,5) has been successfully assigned to server no:9
+Task(574,83,6) has been successfully assigned to server no:10
+Task(602,83,8) has been successfully assigned to server no:11
+Task(802,83,6) has been successfully assigned to server no:12
+Task(811,83,3) has been successfully assigned to server no:13
+Task(872,83,3) has been successfully assigned to server no:14
+Task(876,83,3) has been successfully assigned to server no:15
+Task(893,83,4) has been successfully assigned to server no:16
+Current time: 84
+Task 76 has been successfully processed
+Task 457 has been successfully processed
+Task 591 has been successfully processed
+Task 49 has been successfully processed
+Task(15,84,7) has been successfully assigned to server no:1
+Task(36,84,8) has been successfully assigned to server no:6
+Task(136,84,5) has been successfully assigned to server no:9
+Task(277,84,8) has been successfully assigned to server no:15
+Task(490,84,3) has been successfully assigned to server no:17
+Task(507,84,3) has been successfully assigned to server no:18
+Task(596,84,8) has been successfully assigned to server no:19
+Task(667,84,5) has been successfully assigned to server no:20
+Task(692,84,4) has been successfully assigned to server no:1
+Task(732,84,7) has been successfully assigned to server no:2
+Task(892,84,8) has been successfully assigned to server no:3
+Task(907,84,6) has been successfully assigned to server no:19
+Task(984,84,7) has been successfully assigned to server no:4
+Task 966 has been successfully processed
+Current time: 85
+Task 272 has been successfully processed
+Task(140,85,8) has been successfully assigned to server no:5
+Task(166,85,8) has been successfully assigned to server no:5
+Task(234,85,8) has been successfully assigned to server no:6
+Task(249,85,6) has been successfully assigned to server no:7
+Task(601,85,6) has been successfully assigned to server no:8
+Task(614,85,4) has been successfully assigned to server no:9
+Task(751,85,7) has been successfully assigned to server no:10
+Task(809,85,5) has been successfully assigned to server no:11
+Task(903,85,6) has been successfully assigned to server no:12
+Task(922,85,5) has been successfully assigned to server no:13
+Current time: 86
+Task 911 has been successfully processed
+Task 210 has been successfully processed
+Task 485 has been successfully processed
+Task 671 has been successfully processed
+Task 789 has been successfully processed
+Task 109 has been successfully processed
+Task(227,86,7) has been successfully assigned to server no:16
+Task(235,86,6) has been successfully assigned to server no:17
+Task(405,86,5) has been successfully assigned to server no:20
+Task(407,86,3) has been successfully assigned to server no:3
+Task(427,86,8) has been successfully assigned to server no:7
+Task(481,86,3) has been successfully assigned to server no:11
+Task(576,86,4) has been successfully assigned to server no:14
+Task(613,86,8) has been successfully assigned to server no:15
+Task(615,86,3) has been successfully assigned to server no:16
+Task(795,86,5) has been successfully assigned to server no:17
+Task(958,86,3) has been successfully assigned to server no:18
+Task(992,86,4) has been successfully assigned to server no:19
+Current time: 87
+Task 747 has been successfully processed
+Task(127,87,4) has been successfully assigned to server no:2
+Task(200,87,6) has been successfully assigned to server no:19
+Task 237 has been successfully processed
+Task(587,87,8) has been successfully assigned to server no:20
+Task(691,87,5) has been successfully assigned to server no:1
+Task(699,87,7) has been successfully assigned to server no:2
+Task(749,87,8) has been successfully assigned to server no:3
+Task(835,87,8) has been successfully assigned to server no:4
+Task(940,87,3) has been successfully assigned to server no:5
+Current time: 88
+Task 219 has been successfully processed
+Task 24 has been successfully processed
+Task(68,88,6) has been successfully assigned to server no:14
+Task(163,88,7) has been successfully assigned to server no:4
+Task(192,88,6) has been successfully assigned to server no:6
+Task(241,88,3) has been successfully assigned to server no:7
+Task(243,88,3) has been successfully assigned to server no:8
+Task(346,88,8) has been successfully assigned to server no:9
+Task(350,88,3) has been successfully assigned to server no:10
+Task(426,88,8) has been successfully assigned to server no:11
+Task(432,88,8) has been successfully assigned to server no:12
+Task(702,88,8) has been successfully assigned to server no:13
+Task(782,88,5) has been successfully assigned to server no:14
+Task(794,88,4) has been successfully assigned to server no:15
+Task(897,88,6) has been successfully assigned to server no:16
+Task(988,88,4) has been successfully assigned to server no:17
+Current time: 89
+Task 959 has been successfully processed
+Task 493 has been successfully processed
+Task 544 has been successfully processed
+Task 567 has been successfully processed
+Task 193 has been successfully processed
+Task 48 has been successfully processed
+Task 575 has been successfully processed
+Task(10,89,4) has been successfully assigned to server no:18
+Task(138,89,5) has been successfully assigned to server no:5
+Task(185,89,8) has been successfully assigned to server no:8
+Task(252,89,7) has been successfully assigned to server no:9
+Task(353,89,5) has been successfully assigned to server no:10
+Task(435,89,7) has been successfully assigned to server no:12
+Task(482,89,8) has been successfully assigned to server no:13
+Task(498,89,6) has been successfully assigned to server no:18
+Task(503,89,8) has been successfully assigned to server no:19
+Task(711,89,4) has been successfully assigned to server no:20
+Task(924,89,6) has been successfully assigned to server no:1
+Task(932,89,8) has been successfully assigned to server no:2
+Current time: 90
+Task 659 has been successfully processed
+Task 111 has been successfully processed
+Task(8,90,8) has been successfully assigned to server no:1
+Task(58,90,3) has been successfully assigned to server no:2
+Task(374,90,5) has been successfully assigned to server no:3
+Task(400,90,5) has been successfully assigned to server no:4
+Task(515,90,4) has been successfully assigned to server no:5
+Task(526,90,3) has been successfully assigned to server no:6
+Task(592,90,7) has been successfully assigned to server no:7
+Task(640,90,7) has been successfully assigned to server no:8
+Task(674,90,7) has been successfully assigned to server no:9
+Task(703,90,7) has been successfully assigned to server no:10
+Task(808,90,5) has been successfully assigned to server no:11
+Task(888,90,7) has been successfully assigned to server no:12
+Task(946,90,8) has been successfully assigned to server no:13
+Current time: 91
+Task 994 has been successfully processed
+Task 14 has been successfully processed
+Task(42,91,7) has been successfully assigned to server no:16
+Task(102,91,3) has been successfully assigned to server no:7
+Task(364,91,4) has been successfully assigned to server no:14
+Task(415,91,6) has been successfully assigned to server no:15
+Task(459,91,3) has been successfully assigned to server no:16
+Task(677,91,5) has been successfully assigned to server no:17
+Task(684,91,7) has been successfully assigned to server no:18
+Task(690,91,5) has been successfully assigned to server no:19
+Task(707,91,7) has been successfully assigned to server no:20
+Task(716,91,6) has been successfully assigned to server no:1
+Task(767,91,4) has been successfully assigned to server no:2
+Task(971,91,3) has been successfully assigned to server no:3
+Task(983,91,7) has been successfully assigned to server no:4
+Current time: 92
+Task 164 has been successfully processed
+Task 288 has been successfully processed
+Task 974 has been successfully processed
+Task 9 has been successfully processed
+Task 792 has been successfully processed
+Task 425 has been successfully processed
+Task(31,92,3) has been successfully assigned to server no:5
+Task(32,92,5) has been successfully assigned to server no:6
+Task(105,92,3) has been successfully assigned to server no:11
+Task(110,92,7) has been successfully assigned to server no:12
+Task(211,92,6) has been successfully assigned to server no:15
+Task(301,92,4) has been successfully assigned to server no:3
+Task(599,92,6) has been successfully assigned to server no:5
+Task(650,92,4) has been successfully assigned to server no:6
+Task(655,92,7) has been successfully assigned to server no:7
+Task(756,92,6) has been successfully assigned to server no:8
+Task(819,92,4) has been successfully assigned to server no:9
+Task(836,92,6) has been successfully assigned to server no:10
+Task(961,92,4) has been successfully assigned to server no:11
+Current time: 93
+Task 429 has been successfully processed
+Task 676 has been successfully processed
+Task 403 has been successfully processed
+Task 844 has been successfully processed
+Task(27,93,8) has been successfully assigned to server no:14
+Task(143,93,4) has been successfully assigned to server no:17
+Task(307,93,8) has been successfully assigned to server no:1
+Task(912,93,5) has been successfully assigned to server no:2
+Task(916,93,5) has been successfully assigned to server no:12
+Current time: 94
+Task 608 has been successfully processed
+Task 221 has been successfully processed
+Task(30,94,5) has been successfully assigned to server no:18
+Task(81,94,4) has been successfully assigned to server no:20
+Task(135,94,8) has been successfully assigned to server no:13
+Task(148,94,6) has been successfully assigned to server no:14
+Task(175,94,6) has been successfully assigned to server no:15
+Task(181,94,7) has been successfully assigned to server no:16
+Task(298,94,5) has been successfully assigned to server no:17
+Task(390,94,8) has been successfully assigned to server no:19
+Task(410,94,3) has been successfully assigned to server no:18
+Task(419,94,4) has been successfully assigned to server no:19
+Task(612,94,6) has been successfully assigned to server no:20
+Task(722,94,6) has been successfully assigned to server no:1
+Task(779,94,3) has been successfully assigned to server no:2
+Task(790,94,3) has been successfully assigned to server no:3
+Task(805,94,4) has been successfully assigned to server no:4
+Current time: 95
+Task 879 has been successfully processed
+Task 260 has been successfully processed
+Task 373 has been successfully processed
+Task 375 has been successfully processed
+Task 64 has been successfully processed
+Task 294 has been successfully processed
+Task(147,95,8) has been successfully assigned to server no:8
+Task(190,95,5) has been successfully assigned to server no:9
+Task(607,95,4) has been successfully assigned to server no:13
+Task(638,95,5) has been successfully assigned to server no:16
+Task(653,95,3) has been successfully assigned to server no:4
+Task(675,95,5) has been successfully assigned to server no:5
+Task(680,95,3) has been successfully assigned to server no:6
+Task(727,95,5) has been successfully assigned to server no:7
+Task(866,95,7) has been successfully assigned to server no:8
+Task(880,95,7) has been successfully assigned to server no:9
+Task(905,95,6) has been successfully assigned to server no:10
+Task(947,95,4) has been successfully assigned to server no:11
+Task(950,95,3) has been successfully assigned to server no:12
+Task(953,95,6) has been successfully assigned to server no:13
+Current time: 96
+Task 444 has been successfully processed
+Task 568 has been successfully processed
+Task 572 has been successfully processed
+Task 713 has been successfully processed
+Task(133,96,6) has been successfully assigned to server no:2
+Task(158,96,8) has been successfully assigned to server no:10
+Task(312,96,6) has been successfully assigned to server no:11
+Task(319,96,7) has been successfully assigned to server no:12
+Task(332,96,6) has been successfully assigned to server no:14
+Task(443,96,4) has been successfully assigned to server no:15
+Task(468,96,3) has been successfully assigned to server no:16
+Task(508,96,6) has been successfully assigned to server no:17
+Task(651,96,6) has been successfully assigned to server no:18
+Task(750,96,6) has been successfully assigned to server no:19
+Task(776,96,5) has been successfully assigned to server no:20
+Task(887,96,3) has been successfully assigned to server no:1
+Task(985,96,6) has been successfully assigned to server no:20
+Current time: 97
+Task 621 has been successfully processed
+Task 817 has been successfully processed
+Task 420 has been successfully processed
+Task 365 has been successfully processed
+Task(93,97,4) has been successfully assigned to server no:5
+Task(180,97,7) has been successfully assigned to server no:17
+Task(331,97,3) has been successfully assigned to server no:18
+Task(348,97,6) has been successfully assigned to server no:2
+Task(488,97,7) has been successfully assigned to server no:3
+Task(630,97,7) has been successfully assigned to server no:4
+Task(832,97,8) has been successfully assigned to server no:5
+Task(883,97,7) has been successfully assigned to server no:6
+Task(935,97,7) has been successfully assigned to server no:7
+Task(991,97,3) has been successfully assigned to server no:8
+Current time: 98
+Task 304 has been successfully processed
+Task 710 has been successfully processed
+Task 770 has been successfully processed
+Task 182 has been successfully processed
+Task 289 has been successfully processed
+Task(7,98,4) has been successfully assigned to server no:13
+Task(62,98,5) has been successfully assigned to server no:15
+Task(95,98,6) has been successfully assigned to server no:1
+Task(96,98,6) has been successfully assigned to server no:3
+Task(124,98,5) has been successfully assigned to server no:4
+Task(247,98,7) has been successfully assigned to server no:9
+Task(404,98,4) has been successfully assigned to server no:10
+Task(463,98,5) has been successfully assigned to server no:11
+Task(473,98,6) has been successfully assigned to server no:12
+Task(594,98,8) has been successfully assigned to server no:13
+Task(669,98,4) has been successfully assigned to server no:14
+Task(721,98,6) has been successfully assigned to server no:15
+Task(734,98,8) has been successfully assigned to server no:16
+Task(763,98,6) has been successfully assigned to server no:17
+Task(815,98,7) has been successfully assigned to server no:18
+Current time: 99
+Task 255 has been successfully processed
+Task 244 has been successfully processed
+Task 891 has been successfully processed
+Task(56,99,3) has been successfully assigned to server no:6
+Task(176,99,8) has been successfully assigned to server no:7
+Task(213,99,6) has been successfully assigned to server no:12
+Task(322,99,7) has been successfully assigned to server no:19
+Task(513,99,6) has been successfully assigned to server no:20
+Task(656,99,4) has been successfully assigned to server no:1
+Task(714,99,5) has been successfully assigned to server no:2
+Task(719,99,3) has been successfully assigned to server no:3
+Task(741,99,4) has been successfully assigned to server no:4
+Task(962,99,5) has been successfully assigned to server no:5
+Current time: 100
+Task 414 has been successfully processed
+Task 610 has been successfully processed
+Task 939 has been successfully processed
+Task 271 has been successfully processed
+Current time: 101
+Task 586 has been successfully processed
+Task 735 has been successfully processed
+Task 55 has been successfully processed
+Current time: 102
+Task 75 has been successfully processed
+Task 644 has been successfully processed
+Task 814 has been successfully processed
+Current time: 103
+Task 781 has been successfully processed
+Task 543 has been successfully processed
+Task 2 has been successfully processed
+Task 130 has been successfully processed
+Task 41 has been successfully processed
+Task 777 has been successfully processed
+Current time: 104
+Task 107 has been successfully processed
+Task 309 has been successfully processed
+Current time: 105
+Task 379 has been successfully processed
+Task 642 has been successfully processed
+Task 50 has been successfully processed
+Task 228 has been successfully processed
+Current time: 106
+Task 26 has been successfully processed
+Task 532 has been successfully processed
+Task 335 has been successfully processed
+Task 609 has been successfully processed
+Task 800 has been successfully processed
+Task 628 has been successfully processed
+Current time: 107
+Task 273 has been successfully processed
+Task 69 has been successfully processed
+Task 635 has been successfully processed
+Current time: 108
+Current time: 109
+Task 174 has been successfully processed
+Task 320 has been successfully processed
+Task 269 has been successfully processed
+Task 417 has been successfully processed
+Task 483 has been successfully processed
+Task 367 has been successfully processed
+Current time: 110
+Task 67 has been successfully processed
+Task 357 has been successfully processed
+Task 358 has been successfully processed
+Task 695 has been successfully processed
+Task 120 has been successfully processed
+Current time: 111
+Task 641 has been successfully processed
+Task 11 has been successfully processed
+Task 981 has been successfully processed
+Task 927 has been successfully processed
+Current time: 112
+Task 92 has been successfully processed
+Task 758 has been successfully processed
+Task 436 has been successfully processed
+Current time: 113
+Task 317 has been successfully processed
+Task 98 has been successfully processed
+Task 964 has been successfully processed
+Task 943 has been successfully processed
+Task 387 has been successfully processed
+Current time: 114
+Task 388 has been successfully processed
+Task 867 has been successfully processed
+Current time: 115
+Task 578 has been successfully processed
+Task 52 has been successfully processed
+Task 262 has been successfully processed
+Current time: 116
+Task 873 has been successfully processed
+Task 37 has been successfully processed
+Current time: 117
+Task 60 has been successfully processed
+Task 882 has been successfully processed
+Task 83 has been successfully processed
+Task 216 has been successfully processed
+Task 325 has been successfully processed
+Task 132 has been successfully processed
+Current time: 118
+Task 179 has been successfully processed
+Task 696 has been successfully processed
+Task 930 has been successfully processed
+Task 824 has been successfully processed
+Task 517 has been successfully processed
+Current time: 119
+Task 469 has been successfully processed
+Task 904 has been successfully processed
+Current time: 120
+Task 546 has been successfully processed
+Task 673 has been successfully processed
+Task 125 has been successfully processed
+Task 6 has been successfully processed
+Task 633 has been successfully processed
+Current time: 121
+Task 685 has been successfully processed
+Task 788 has been successfully processed
+Task 155 has been successfully processed
+Task 116 has been successfully processed
+Current time: 122
+Task 801 has been successfully processed
+Task 890 has been successfully processed
+Task 276 has been successfully processed
+Task 94 has been successfully processed
+Current time: 123
+Task 433 has been successfully processed
+Task 822 has been successfully processed
+Task 103 has been successfully processed
+Current time: 124
+Task 871 has been successfully processed
+Task 948 has been successfully processed
+Task 738 has been successfully processed
+Task 504 has been successfully processed
+Task 343 has been successfully processed
+Current time: 125
+Task 340 has been successfully processed
+Task 329 has been successfully processed
+Task 593 has been successfully processed
+Current time: 126
+Task 159 has been successfully processed
+Task 670 has been successfully processed
+Task 936 has been successfully processed
+Task 548 has been successfully processed
+Current time: 127
+Task 352 has been successfully processed
+Task 321 has been successfully processed
+Task 395 has been successfully processed
+Current time: 128
+Task 327 has been successfully processed
+Task 949 has been successfully processed
+Task 757 has been successfully processed
+Task 975 has been successfully processed
+Current time: 129
+Task 901 has been successfully processed
+Task 786 has been successfully processed
+Task 797 has been successfully processed
+Current time: 130
+Task 926 has been successfully processed
+Task 355 has been successfully processed
+Task 25 has been successfully processed
+Task 316 has been successfully processed
+Task 938 has been successfully processed
+Task 145 has been successfully processed
+Current time: 131
+Task 598 has been successfully processed
+Task 761 has been successfully processed
+Task 645 has been successfully processed
+Task 874 has been successfully processed
+Task 1 has been successfully processed
+Task 514 has been successfully processed
+Current time: 132
+Task 454 has been successfully processed
+Current time: 133
+Task 528 has been successfully processed
+Task 968 has been successfully processed
+Current time: 134
+Task 100 has been successfully processed
+Task 251 has been successfully processed
+Task 447 has been successfully processed
+Task 303 has been successfully processed
+Task 47 has been successfully processed
+Current time: 135
+Task 191 has been successfully processed
+Current time: 136
+Task 151 has been successfully processed
+Task 492 has been successfully processed
+Task 556 has been successfully processed
+Task 43 has been successfully processed
+Current time: 137
+Task 853 has been successfully processed
+Task 475 has been successfully processed
+Task 117 has been successfully processed
+Task 35 has been successfully processed
+Task 34 has been successfully processed
+Current time: 138
+Task 705 has been successfully processed
+Task 945 has been successfully processed
+Task 773 has been successfully processed
+Task 995 has been successfully processed
+Current time: 139
+Current time: 140
+Task 838 has been successfully processed
+Task 409 has been successfully processed
+Task 718 has been successfully processed
+Current time: 141
+Task 921 has been successfully processed
+Task 704 has been successfully processed
+Task 739 has been successfully processed
+Task 934 has been successfully processed
+Task 769 has been successfully processed
+Current time: 142
+Task 816 has been successfully processed
+Task 286 has been successfully processed
+Task 833 has been successfully processed
+Task 231 has been successfully processed
+Current time: 143
+Task 910 has been successfully processed
+Task 167 has been successfully processed
+Task 434 has been successfully processed
+Task 562 has been successfully processed
+Task 941 has been successfully processed
+Current time: 144
+Task 818 has been successfully processed
+Task 969 has been successfully processed
+Task 706 has been successfully processed
+Current time: 145
+Task 480 has been successfully processed
+Task 826 has been successfully processed
+Task 351 has been successfully processed
+Current time: 146
+Task 80 has been successfully processed
+Task 85 has been successfully processed
+Task 287 has been successfully processed
+Task 663 has been successfully processed
+Task 263 has been successfully processed
+Current time: 147
+Task 812 has been successfully processed
+Task 516 has been successfully processed
+Task 518 has been successfully processed
+Task 720 has been successfully processed
+Current time: 148
+Task 807 has been successfully processed
+Task 203 has been successfully processed
+Task 928 has been successfully processed
+Current time: 149
+Task 906 has been successfully processed
+Task 731 has been successfully processed
+Task 712 has been successfully processed
+Current time: 150
+Task 356 has been successfully processed
+Task 898 has been successfully processed
+Task 209 has been successfully processed
+Current time: 151
+Task 834 has been successfully processed
+Task 254 has been successfully processed
+Task 250 has been successfully processed
+Current time: 152
+Task 118 has been successfully processed
+Task 859 has been successfully processed
+Task 687 has been successfully processed
+Current time: 153
+Task 149 has been successfully processed
+Task 470 has been successfully processed
+Task 538 has been successfully processed
+Task 328 has been successfully processed
+Task 112 has been successfully processed
+Task 295 has been successfully processed
+Task 764 has been successfully processed
+Current time: 154
+Task 324 has been successfully processed
+Task 165 has been successfully processed
+Current time: 155
+Task 813 has been successfully processed
+Task 666 has been successfully processed
+Current time: 156
+Task 856 has been successfully processed
+Task 637 has been successfully processed
+Current time: 157
+Task 323 has been successfully processed
+Task 821 has been successfully processed
+Task 39 has been successfully processed
+Task 523 has been successfully processed
+Task 408 has been successfully processed
+Task 525 has been successfully processed
+Task 942 has been successfully processed
+Current time: 158
+Task 90 has been successfully processed
+Task 99 has been successfully processed
+Task 396 has been successfully processed
+Task 280 has been successfully processed
+Task 306 has been successfully processed
+Current time: 159
+Task 74 has been successfully processed
+Task 552 has been successfully processed
+Task 372 has been successfully processed
+Current time: 160
+Task 310 has been successfully processed
+Task 205 has been successfully processed
+Task 698 has been successfully processed
+Current time: 161
+Task 585 has been successfully processed
+Task 152 has been successfully processed
+Task 160 has been successfully processed
+Current time: 162
+Task 201 has been successfully processed
+Task 184 has been successfully processed
+Task 495 has been successfully processed
+Task 45 has been successfully processed
+Current time: 163
+Task 465 has been successfully processed
+Task 336 has been successfully processed
+Task 389 has been successfully processed
+Current time: 164
+Task 378 has been successfully processed
+Task 634 has been successfully processed
+Current time: 165
+Task 726 has been successfully processed
+Task 810 has been successfully processed
+Task 746 has been successfully processed
+Task 760 has been successfully processed
+Task 500 has been successfully processed
+Task 170 has been successfully processed
+Current time: 166
+Task 146 has been successfully processed
+Task 694 has been successfully processed
+Current time: 167
+Task 909 has been successfully processed
+Task 239 has been successfully processed
+Task 281 has been successfully processed
+Task 709 has been successfully processed
+Current time: 168
+Task 550 has been successfully processed
+Task 349 has been successfully processed
+Current time: 169
+Task 878 has been successfully processed
+Task 996 has been successfully processed
+Task 733 has been successfully processed
+Task 715 has been successfully processed
+Task 657 has been successfully processed
+Task 82 has been successfully processed
+Current time: 170
+Task 1000 has been successfully processed
+Task 998 has been successfully processed
+Task 283 has been successfully processed
+Current time: 171
+Task 194 has been successfully processed
+Task 431 has been successfully processed
+Task 868 has been successfully processed
+Current time: 172
+Task 654 has been successfully processed
+Task 581 has been successfully processed
+Task 197 has been successfully processed
+Task 225 has been successfully processed
+Current time: 173
+Task 881 has been successfully processed
+Task 915 has been successfully processed
+Task 275 has been successfully processed
+Task 775 has been successfully processed
+Current time: 174
+Task 783 has been successfully processed
+Task 305 has been successfully processed
+Task 960 has been successfully processed
+Current time: 175
+Task 840 has been successfully processed
+Task 563 has been successfully processed
+Task 300 has been successfully processed
+Task 729 has been successfully processed
+Current time: 176
+Task 236 has been successfully processed
+Task 452 has been successfully processed
+Task 462 has been successfully processed
+Task 119 has been successfully processed
+Task 384 has been successfully processed
+Task 279 has been successfully processed
+Task 177 has been successfully processed
+Task 376 has been successfully processed
+Current time: 177
+Task 648 has been successfully processed
+Task 97 has been successfully processed
+Current time: 178
+Task 681 has been successfully processed
+Current time: 179
+Task 627 has been successfully processed
+Task 5 has been successfully processed
+Task 861 has been successfully processed
+Current time: 180
+Task 270 has been successfully processed
+Task 539 has been successfully processed
+Task 229 has been successfully processed
+Task 744 has been successfully processed
+Task 622 has been successfully processed
+Task 849 has been successfully processed
+Task 38 has been successfully processed
+Task 265 has been successfully processed
+Current time: 181
+Task 511 has been successfully processed
+Task 19 has been successfully processed
+Task 21 has been successfully processed
+Current time: 182
+Task 293 has been successfully processed
+Task 337 has been successfully processed
+Task 501 has been successfully processed
+Task 169 has been successfully processed
+Task 44 has been successfully processed
+Current time: 183
+Current time: 184
+Task 342 has been successfully processed
+Task 631 has been successfully processed
+Task 392 has been successfully processed
+Task 929 has been successfully processed
+Task 131 has been successfully processed
+Current time: 185
+Task 77 has been successfully processed
+Task 198 has been successfully processed
+Task 65 has been successfully processed
+Current time: 186
+Task 827 has been successfully processed
+Task 772 has been successfully processed
+Current time: 187
+Task 497 has been successfully processed
+Task 848 has been successfully processed
+Task 829 has been successfully processed
+Task 215 has been successfully processed
+Task 917 has been successfully processed
+Current time: 188
+Task 626 has been successfully processed
+Task 845 has been successfully processed
+Task 977 has been successfully processed
+Task 987 has been successfully processed
+Current time: 189
+Task 494 has been successfully processed
+Task 113 has been successfully processed
+Task 530 has been successfully processed
+Current time: 190
+Task 195 has been successfully processed
+Task 565 has been successfully processed
+Current time: 191
+Task 258 has been successfully processed
+Task 212 has been successfully processed
+Task 141 has been successfully processed
+Task 218 has been successfully processed
+Task 980 has been successfully processed
+Task 862 has been successfully processed
+Current time: 192
+Task 595 has been successfully processed
+Task 662 has been successfully processed
+Task 920 has been successfully processed
+Current time: 193
+Task 72 has been successfully processed
+Task 299 has been successfully processed
+Task 248 has been successfully processed
+Current time: 194
+Task 588 has been successfully processed
+Task 134 has been successfully processed
+Task 502 has been successfully processed
+Task 233 has been successfully processed
+Task 689 has been successfully processed
+Current time: 195
+Task 154 has been successfully processed
+Task 847 has been successfully processed
+Current time: 196
+Task 979 has been successfully processed
+Task 616 has been successfully processed
+Task 313 has been successfully processed
+Current time: 197
+Task 537 has been successfully processed
+Task 59 has been successfully processed
+Task 297 has been successfully processed
+Current time: 198
+Task 542 has been successfully processed
+Task 334 has been successfully processed
+Current time: 199
+Task 345 has been successfully processed
+Task 423 has been successfully processed
+Task 839 has been successfully processed
+Task 531 has been successfully processed
+Task 172 has been successfully processed
+Task 646 has been successfully processed
+Task 496 has been successfully processed
+Current time: 200
+Task 603 has been successfully processed
+Task 89 has been successfully processed
+Task 579 has been successfully processed
+Task 925 has been successfully processed
+Task 122 has been successfully processed
+Average Waiting Time: 5.503
